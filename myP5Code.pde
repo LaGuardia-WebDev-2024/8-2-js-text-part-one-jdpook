@@ -15,6 +15,13 @@ draw = function(){
   }
 
   //🎯New Text Code Should Go Here 🡻
+fill(0,0,0);
+textSize(40);
+text("My Favorite Foods",30,40)
+textSize(20);
+text("Cookies",30,80);
+text("Cupcakes",30,120);
+text("Cake",30,160);
 
 };
 
